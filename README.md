@@ -14,3 +14,5 @@ CTRL+x,CTRL+n
 CTRL+x,CTRL+p
 ```
 
+VimScript book:
+http://learnvimscriptthehardway.stevelosh.com/
